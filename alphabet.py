@@ -4,4 +4,4 @@ for y in v:
      if(y==x):
          print("Alphabet")
      else :
-         print("no")
+         print("No")
