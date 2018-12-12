@@ -5,4 +5,4 @@ def new(number,loop):
          return number * new(number,loop-1)
 a = new(6,6)
 print a
-print "Hello "*a
+print "Hello"*a
