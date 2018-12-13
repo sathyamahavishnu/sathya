@@ -5,7 +5,7 @@ for i in range(2,a//2+1):
         k=k+1
         
 if(k<=0): 
-     print "Prime"
+     print "Yes"
 else:
     print "No"
     
