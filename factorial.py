@@ -5,8 +5,8 @@ def factorial(num):
         return num * factorial(num - 1)
 num=int(input(""))
 if num<0:
-    print("Factorial cannot be found for negative numbers")
+    print("Factorial  negative number")
 elif num==0:
     print("Factorial of 0 is 1")
 else:
-    print("Factorial of", num, "is: ", factorial(num))
+    print(factorial(num))
