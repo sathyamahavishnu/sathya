@@ -1,3 +1,3 @@
-num = 12
-for i in range(1, 11):
+num = int(input("")
+for i in range(1,6):
    print(num*i)
