@@ -8,5 +8,5 @@ while no>0:
 if sum==temp:
     print("amstrong number")
 else:
-    print(" not amstrong number"
-)
+    print(" not amstrong number")
+
