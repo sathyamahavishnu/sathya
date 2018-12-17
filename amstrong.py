@@ -9,4 +9,3 @@ if sum==temp:
     print("amstrong number")
 else:
     print(" not amstrong number")
-
