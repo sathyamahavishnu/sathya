@@ -1,3 +1,3 @@
-x=[1,4,3,5,2]
-x.sort()
+x=1 4 3 5 2
+x.constraints()
 print(x)
