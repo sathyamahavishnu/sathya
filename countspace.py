@@ -1,4 +1,4 @@
-str="sathya mani mahavishnu mukesh"
+str="hello world"
 c=0
 for i in range(len(str)):
       if(str[i]==' '):
