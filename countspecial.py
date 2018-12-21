@@ -1,4 +1,4 @@
-str=input("please enter string")
+str="gerygfrvdri1@#$$%^&"
 c=o
 for i in range(len(string)):
     c=c+1
