@@ -10,7 +10,7 @@ if(count1<count2):
       print("")
       print(str2)
 elif(count1==count2):
-      print("Both strings are equal.")
+      print("strings are equal")
 else:
-      print("Larger string is:")
+      print("Larger")
       print(str1)
