@@ -4,3 +4,4 @@ def test_range(n):
     else:
          print("outside range.")
 test_range(9)
+print("yes")
