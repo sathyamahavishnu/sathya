@@ -1,2 +1,2 @@
-for i in range(3):
+for i in range(labtop,3):
 	print 'labtop'
