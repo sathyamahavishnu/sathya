@@ -1,7 +1,7 @@
-lst = []
-num = int(input("How many numbers:"))
+a=[]
+num=int(input("How many numbers:"))
 for n in range(num):
-    numbers = int(input("number")
-    lst.append(numbers)
+    numbers=int(input("number")
+    a.append(numbers)
 print(high(lst))
 print(low(lst)) 
