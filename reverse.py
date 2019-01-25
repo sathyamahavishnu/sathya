@@ -1,7 +1,7 @@
-def reverse(s): 
-  str="" 
+def reverse(): 
+   str="" 
   for i in s: 
-    str=i+str
+     str=i+str
   return str
-s="magesh murugesh"
-print(reverse(s)) 
+s=input("")
+print(reverse()) 
