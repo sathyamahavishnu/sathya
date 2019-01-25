@@ -1,7 +1,7 @@
 def reverse(): 
-   str="" 
+  str="" 
   for i in s: 
      str=i+str
   return str
-s=input("")
+s="hgyfjgh"
 print(reverse()) 
