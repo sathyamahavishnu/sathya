@@ -1,3 +1,3 @@
-str="frhtbgfvtyt"
+str="vishalrknager"
 s=str+"."
 print(s)
